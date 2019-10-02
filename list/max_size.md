@@ -4,7 +4,7 @@
 
 **Example**:
 ```cpp
-    //Run Code To Demonstrate use of set.empty()
+    //Run Code To Demonstrate use of max_size() function
     #include <iostream>
     #include <list>
 
